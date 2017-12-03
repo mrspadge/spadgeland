@@ -1,1 +1,3 @@
 # spadgeland
+
+Right, kick ass. Well, don't want to sound like a dick or nothin', but, ah... it says on your chart that you're fucked up. Ah, you talk like a fag, and your shit's all retarded. What I'd do, is just like... like... you know, like, you know what I mean, like... 
