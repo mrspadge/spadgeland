@@ -14,4 +14,4 @@ foreach ($server in $servers)
 	New-Object -TypeName PSObject -Property $Status -OutVariable serverStatus
 	$collection += $serverStatus
 }
-$collection | Out-file C:\BigPingClientStatus.txt
+$collection | Out-file C:\Scripts\BigPingClientStatus.txt
